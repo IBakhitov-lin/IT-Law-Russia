@@ -3,23 +3,23 @@
 ---
 ## 🌐 Интеллектуальная собственность и Код
 > *Кому принадлежит код, контент и технологии.*
-- [Интеллектуальная собственность в цифре](https://github.com/IBakhitov-lin/IT-Law-Russia/blob/main/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D1%86%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B0/digital_ip_regulation.md)
-- [Коммерческая тайна в цифровой среде](https://github.com/IBakhitov-lin/IT-Law-Russia/blob/main/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D1%86%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B0/trade_secret_regime.md)
-- [Лицензия GPL](https://github.com/IBakhitov-lin/IT-Law-Russia/blob/main/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D1%86%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B0/gpl_license.md)
+- [Интеллектуальная собственность в цифре](https://github.com/IBakhitov-lin/IT-Law-Russia/blob/main/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D1%86%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B0/IP_Digital_Regulation.md)
+- [Коммерческая тайна в цифровой среде](https://github.com/IBakhitov-lin/IT-Law-Russia/blob/main/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D1%86%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B0/Trade_Secret_Regime.md)
+- [Лицензия GPL](https://github.com/IBakhitov-lin/IT-Law-Russia/blob/main/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D1%86%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B0/GPL_License.md)
 ---
 ## 🤝 Гражданский оборот и Сделки
 > *Как заключаются соглашения в сети.*
 - [Сделки в цифровой среде](https://github.com/IBakhitov-lin/IT-Law-Russia/blob/main/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D1%86%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B0/Transactions_Digital_Environment.md)
-- [Дееспособность в цифровой среде ](https://github.com/IBakhitov-lin/IT-Law-Russia/blob/main/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D1%86%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B0/digital_legal_capacity.md)
+- [Дееспособность в цифровой среде ](https://github.com/IBakhitov-lin/IT-Law-Russia/blob/main/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D1%86%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B0/Legal_Capacity_Digital.md)
 ---
 ## ⚠️ Ответственность и Риски
 > *За что штрафуют и сажают. Зоны риска.*
-- [Ответственность в цифровой среде](https://github.com/IBakhitov-lin/IT-Law-Russia/blob/main/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D1%86%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B0/digital_liability_regulation.md)
+- [Ответственность в цифровой среде](https://github.com/IBakhitov-lin/IT-Law-Russia/blob/main/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D1%86%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B0/Liability_Digital_Regulation.md)
 ---
 ## 👤 Данные и Приватность
 > *Права человека против прав корпорации.*
-- [Права в цифровой среде - Права субъекта данных](https://github.com/IBakhitov-lin/IT-Law-Russia/blob/main/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D1%86%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B0/data_subject_rights.md)
+- [Права в цифровой среде - Права субъекта данных](https://github.com/IBakhitov-lin/IT-Law-Russia/blob/main/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D1%86%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B0/Data_Subject_Rights.md)
 ---
 ## 💰 Цифровые Активы
 > *Криптовалюта, ЦФА и токены.*
-- [Криптовалюта и ЦФА: Регулирование](https://github.com/IBakhitov-lin/IT-Law-Russia/blob/main/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D1%86%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B0/crypto_regulation.md)
+- [Криптовалюта и ЦФА: Регулирование](https://github.com/IBakhitov-lin/IT-Law-Russia/blob/main/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D1%86%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B0/Crypto_Regulation.md)
