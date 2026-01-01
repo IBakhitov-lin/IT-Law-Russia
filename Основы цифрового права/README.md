@@ -7,10 +7,14 @@
 - [Коммерческая тайна в цифровой среде](https://github.com/IBakhitov-lin/IT-Law-Russia/blob/main/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D1%86%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B0/trade_secret_regime.md)
 - [Лицензия GPL](https://github.com/IBakhitov-lin/IT-Law-Russia/blob/main/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D1%86%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B0/gpl_license.md)
 ---
+## 🤝 Гражданский оборот и Сделки
+> *Как заключаются соглашения в сети.*
+- [Сделки в цифровой среде](https://github.com/IBakhitov-lin/IT-Law-Russia/blob/main/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D1%86%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B0/Transactions_Digital_Environment.md)
+- [Дееспособность в цифровой среде ](https://github.com/IBakhitov-lin/IT-Law-Russia/blob/main/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D1%86%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B0/digital_legal_capacity.md)
+---
 ## ⚠️ Ответственность и Риски
 > *За что штрафуют и сажают. Зоны риска.*
 - [Ответственность в цифровой среде](https://github.com/IBakhitov-lin/IT-Law-Russia/blob/main/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D1%86%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B0/digital_liability_regulation.md)
-- [Дееспособность в цифровой среде ](https://github.com/IBakhitov-lin/IT-Law-Russia/blob/main/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D1%86%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B0/digital_legal_capacity.md)
 ---
 ## 👤 Данные и Приватность
 > *Права человека против прав корпорации.*
